@@ -1,0 +1,17 @@
+.poll-card-image-block {
+    display: block;
+    width:100%;
+    height:100px;
+    background-color:#475;
+    overflow:hidden;
+}
+
+.poll-card-image {
+    object-fit: cover;
+    align-content: center;
+}
+
+.user-image {
+    object-fit: cover;
+    border-radius: 50%;
+}
