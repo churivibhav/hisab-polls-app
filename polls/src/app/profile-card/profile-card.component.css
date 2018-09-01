@@ -1,0 +1,32 @@
+.profile-card {
+    margin-top: 10%;
+}
+
+.profile-card-image-block {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.profile-card-image {
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.profile-user-name {
+    text-align: center;
+}
+
+.profile-information-table-block {
+    display: block;
+    margin-top: 5%;
+}
+
+.profile-information-table {
+    margin: 0 auto;
+}
+
+.profile-information-table > tbody > tr > td {
+    text-align: center;
+}
